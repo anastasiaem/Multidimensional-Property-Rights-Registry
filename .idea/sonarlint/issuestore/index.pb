@@ -13,3 +13,5 @@ c
 3contracts/spatial-temporal-boundary-definition.clar,b/f/bf348efd237be524a742d974054de12eebd6f7fe
 b
 2tests/spatial-temporal-boundary-definition.test.ts,d/7/d7656769328e481dbd9164c160a7e888a0553ea4
+a
+1contracts/reality-overlap-dispute-resolution.clar,3/a/3a6332253e4613a1eb864c3911c22d2894ee3f51
