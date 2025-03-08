@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.cross-dimensional-ownership-verification]
+path = 'contracts/cross-dimensional-ownership-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.hyperdimensional-asset-tokenization]
 path = 'contracts/hyperdimensional-asset-tokenization.clar'
 clarity_version = 2
