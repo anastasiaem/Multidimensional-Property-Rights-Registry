@@ -7,3 +7,5 @@ a
 1tests/hyperdimensional-asset-tokenization.test.ts,8/2/82c8492e54b16bdcf85dd998553b851c311b870f
 g
 7contracts/cross-dimensional-ownership-verification.clar,c/6/c6716df5071b25588c83e2c7b6f04bd8f9132da4
+f
+6tests/cross-dimensional-ownership-verification.test.ts,d/b/db246abeda3091366dbedce88659c415449b5437
