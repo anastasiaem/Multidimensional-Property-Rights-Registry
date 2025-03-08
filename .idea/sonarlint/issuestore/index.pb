@@ -11,3 +11,5 @@ f
 6tests/cross-dimensional-ownership-verification.test.ts,d/b/db246abeda3091366dbedce88659c415449b5437
 c
 3contracts/spatial-temporal-boundary-definition.clar,b/f/bf348efd237be524a742d974054de12eebd6f7fe
+b
+2tests/spatial-temporal-boundary-definition.test.ts,d/7/d7656769328e481dbd9164c160a7e888a0553ea4
