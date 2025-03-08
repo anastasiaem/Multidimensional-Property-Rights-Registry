@@ -9,3 +9,5 @@ g
 7contracts/cross-dimensional-ownership-verification.clar,c/6/c6716df5071b25588c83e2c7b6f04bd8f9132da4
 f
 6tests/cross-dimensional-ownership-verification.test.ts,d/b/db246abeda3091366dbedce88659c415449b5437
+c
+3contracts/spatial-temporal-boundary-definition.clar,b/f/bf348efd237be524a742d974054de12eebd6f7fe

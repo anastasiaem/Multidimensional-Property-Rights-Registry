@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/hyperdimensional-asset-tokenization.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.spatial-temporal-boundary-definition]
+path = 'contracts/spatial-temporal-boundary-definition.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
